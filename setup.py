@@ -8,10 +8,10 @@ setuptools.setup(
     version="1.7.1", # The version of your package!
     author="Diwan Mohamed Faheer", # Your name here!
     author_email="diwanmohamedfaheer@gmail.com", # Your e-mail here!
-    description="A small example package", # A short description here!
+    description="A Python module Based on Ilford County High School", # A short description here!
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/Custom/BetterPython", # Link your package website here! (most commonly a GitHub repo)
+    url="https://github.com/Custom/ichs", # Link your package website here! (most commonly a GitHub repo)
     packages=setuptools.find_packages(), # A list of all packages for Python to distribute!
     classifiers=[
         "Programming Language :: Python :: 3",
