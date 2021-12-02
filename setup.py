@@ -4,7 +4,7 @@ with open("README.md", "r") as fhandle:
     long_description = fhandle.read() # Your README.md file will be used as the long description!
 
 setuptools.setup(
-    name="Custom", # Put your username here!
+    name="ichs", # Put your username here!
     version="1.7.1", # The version of your package!
     author="Diwan Mohamed Faheer", # Your name here!
     author_email="diwanmohamedfaheer@gmail.com", # Your e-mail here!
