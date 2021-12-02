@@ -3,7 +3,7 @@
 
 Ichs is a module I made for fun in around 20 minutes. As of writing, there are only two functions but I do plan to add more.
 
-# Functions
+# Twitter
 ---
 ```py
 ichs.twitter()
@@ -20,6 +20,7 @@ print(twitter)
 ```
 http://www.twitter.com/IlfordCountySch
 ```
+# Website
 ---
 ```py
 ichs.website()
