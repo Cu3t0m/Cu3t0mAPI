@@ -20,7 +20,7 @@ print(twitter)
 ```
 http://www.twitter.com/IlfordCountySch
 ```
-
+---
 ```py
 ichs.website()
 ```
